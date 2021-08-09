@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a217320-209d-4b8e-93a2-884163464bf4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-template.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/letter-template.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonprofit-supporters.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1.uml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem1/CommandLineParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem1/CommandLineParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem1/DoubleIndices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem1/FileProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem1/FileProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem1/IllegalEmailLetterException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem1/NeedsRequiredCommandException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem1/OutputEditor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem1/OutputGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem1/OutputReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/problem1/CommandLineParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/problem1/CommandLineParserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/problem1/FileProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/problem1/FileProcessorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/problem1/OutputEditorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/problem1/OutputGeneratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/problem1/OutputReaderTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wVKD4OMnAhYurmGc0uXhO4oIOZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a217320-209d-4b8e-93a2-884163464bf4" name="Default Changelist" comment="" />
+      <created>1628538195240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628538195240</updated>
+      <workItem from="1628538197106" duration="974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
